@@ -1,0 +1,3 @@
+[submodule "theta-native"]
+  path = theta-native
+  url = git://github.com/KaZe-Python/Theta-Native.git
