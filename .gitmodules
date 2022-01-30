@@ -1,3 +1,7 @@
 [submodule "theta-native"]
   path = theta-native
   url = git://github.com/KaZe-Python/Theta-Native.git
+
+[submodule "theta-voice"]
+	path = theta-voice
+	url = git://github.com/KaZe-Python/Theta-Voice.git
